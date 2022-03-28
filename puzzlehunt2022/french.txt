@@ -1,0 +1,15 @@
+Walking down the tiled stone streets of Paris, Patrick feels ever-so-slightly out-of-place without a beret, a mustache or a striped shirt.
+
+For most people, it would have been a gruelingly long flight from Melbourne to the French capital, being psuedo-antipodes. However, Patrick had saved for months to fly on Air France's La Premiere, with three-course meals, a lie-flat bed, and curtains around his seat for privacy. And, fatefully, bottles and bottles of French wines and champagnes, all complimentary. Patrick is known by his friends as being a bit of an over-indulger, and, unsurprising to no one, he had a bit too much on his flight. So here he was, roaming the Parisian streets on the first day of his holiday, feeling a bit nauseous, and nursing a banging headache.
+
+As Patrick strolls past a corner-store bakery, he stops for a second to consider whether he should buy a fresh baguette. He had read on travel forums that scammers and pick-pocketers love to prey on unsuspecting tourists around Paris. This, he figured, would be a decent way to defend himself. And to assimilate a bit more. After all, with his kangaroo-print shirt, flip flops and Vegemite bucket hat, Patrick currently looks every bit Aussie, and unequivocally, unmistakably no bit French.
+
+This trip was the culmination of three years of studying French at Unimelb. "The language just sounds elegant, romantic," he would boast constantly. In writing, Patrick also argues that French utilises more of the Latin alphabet, with words like rendezvous and bijoux. Keen to prove him wrong, and rein in his smugness, you set out to find a section of text 30 letters long within this question statement (any contiguous window between 'Walking' and 'return') that contains the most unique letters.
+
+Spaces, new lines and punctuation do not count as letters.
+
+Break ties by taking the earliest window in the text that is 30 letters long.
+
+Submit the answer without any punctuation or spaces. The case doesn’t matter.
+
+Do remember it for later, to be ready to ambush Patrick with your rebuttal upon his return!
